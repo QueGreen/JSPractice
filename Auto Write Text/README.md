@@ -1,0 +1,47 @@
+## Coding Challenge - 10 JavaScript Projects In 1 Hour - #####Guided by: Florin Pop
+
+Auto Write Text
+
+Change the text to say whatever you need.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
